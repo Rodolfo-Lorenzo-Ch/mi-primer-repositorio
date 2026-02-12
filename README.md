@@ -1,2 +1,2 @@
-# mi-primer-repocitorio
+# mi-primer-repositorio
 Mi primer repositorio.
